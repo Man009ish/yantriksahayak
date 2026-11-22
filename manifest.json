@@ -1,0 +1,17 @@
+{
+  "name": "यांत्रिक सहायक - एकीकृत कंट्रोल पैनल",
+  "short_name": "यांत्रिक सहायक",
+  "id": "/yantrik-sahayak/",
+  "start_url": "/yantrik-sahayak/index.html",
+  "scope": "/yantrik-sahayak/",
+  "display": "standalone",
+  "background_color": "#064e3b",
+  "theme_color": "#064e3b",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
